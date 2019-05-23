@@ -1,0 +1,11 @@
+.input {
+  font-size: 14px;
+  padding: 0.5em;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #2d3436;
+}
+
+.wrapper {
+  width: 100%;
+}
