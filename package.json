@@ -1,0 +1,33 @@
+{
+  "name": "5273",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:faizrr/5273.git",
+  "author": "Roman Faizullin <roman@faizullin.info>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/runtime": "^7.4.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "lodash": "^4.17.11",
+    "nanoid": "^2.0.3",
+    "normalize.css": "^8.0.1",
+    "postcss-modules": "^1.4.1",
+    "react": "^16.8.6",
+    "react-autocomplete": "^1.8.1",
+    "react-dom": "^16.8.6",
+    "react-string-replace": "^0.4.4",
+    "react-use": "^9.0.0"
+  },
+  "scripts": {
+    "start": "parcel index.html --no-hmr",
+    "build": "parcel build index.html"
+  }
+}

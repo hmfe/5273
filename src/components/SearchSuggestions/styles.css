@@ -1,0 +1,9 @@
+.wrapper {
+  margin-top: 5px;
+  background: #fff;
+  width: 100%;
+  border: 1px solid #2d3436;
+
+  max-height: 150px;
+  overflow: scroll;
+}

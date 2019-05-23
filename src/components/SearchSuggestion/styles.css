@@ -1,0 +1,12 @@
+.wrapper {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.wrapper:hover {
+  background: #dfe6e9;
+}
+
+.highlighted {
+  background: #b2bec3;
+}
